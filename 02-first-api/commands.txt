@@ -1,0 +1,13 @@
+python3 -m venv envName --> To setup project
+
+source envName/bin/activate --> To activate environment
+
+deactivate --> To deactivate the environment
+
+pip3 list  --> To check list of all dependencies install
+
+pip install fastapi  --> To install fastapi
+
+pip install "uvicorn[standard]"  --> To install uvicorn
+
+uvicorn filename:app --reload --> To start the server
