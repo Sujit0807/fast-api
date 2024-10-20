@@ -1,4 +1,4 @@
-python3 -m venv envName --> To setup project
+python3 -m venv .envName --> To setup project
 
 source envName/bin/activate --> To activate environment
 
